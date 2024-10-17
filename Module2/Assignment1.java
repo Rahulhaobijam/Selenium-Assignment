@@ -18,7 +18,7 @@ public class Assignment1 {
 			   System.out.println(companyName.getText());
 	        }
 		   
-		  
+		 driver.close(); 
 		   
 		
 }
